@@ -1,0 +1,5 @@
+authtoken: 23pOKXRDEPR4LkZUPTHAqPjm7H5_2KbExZAGJgn5ps3bkeJvQ
+tunnels:
+          nodejs:
+          proto: http
+          addr: 5500
